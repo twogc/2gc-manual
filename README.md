@@ -14,24 +14,38 @@ layout:
 
 # Документация 2GC
 
+2GC Project Documentation
+
 \
-Проект 2GC — это передовая система для управления  вашими серверами и  сервисами с использованием безопасного туннелирования через **Cloudflare Argo Tunnel**. В рамках этого проекта мы предоставляем инструменты и решения для оптимизации доступа к облачным ресурсам с высокой степенью безопасности и стабильности.
 
-Эта документация поможет вам быстро и легко освоить все ключевые компоненты и функции 2GC. Здесь вы найдете подробные инструкции по настройке, интеграции и использованию всех возможностей платформы.
 
-#### Что вы найдете в этой документации?
+The 2GC Project is an advanced system for managing your servers and services using secure tunneling via Cloudflare Argo Tunnel. This project provides tools and solutions to optimize access to cloud resources with a high level of security and stability.
 
-* Полное руководство по установке и настройке 2GC.
-* Ответы на часто задаваемые вопросы (FAQ) и советы по решению распространенных проблем.
-
-Если у вас возникнут вопросы или предложения по улучшению проекта, не стесняйтесь обращаться к нам через наш [**Telegram**-бот](https://t.me/suppport2gc_bot).
-
-Мы рады видеть вас среди пользователей 2GC и надеемся, что наш проект сделает вашу работу с облачными сервисами проще и безопаснее!\
 \
-**Разделы:**\
+
+
+This documentation will help you quickly and easily learn about all the key components and features of 2GC. Here, you will find detailed instructions on setup, integration, and utilizing the full capabilities of the platform.
+
 \
-[lk](instrukcii/lk/ "mention")
 
-[registraciya-servera.md](instrukcii/lk/registraciya-servera.md "mention")
 
-[desktop-prilozhenie-2gc-business](instrukcii/desktop-prilozhenie-2gc-business/ "mention")\
+What will you find in this documentation?
+
+• A complete guide on installing and configuring 2GC.
+
+• Answers to frequently asked questions (FAQ) and tips on solving common issues.
+
+\
+
+
+If you have any questions or suggestions for improving the project, feel free to reach out to us via our Telegram bot.
+
+\
+
+
+We are happy to have you as a 2GC user and hope our project makes your work with cloud services easier and more secure!
+
+\
+
+
+Sections:
