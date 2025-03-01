@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Документация 2GC](README.md)
+* [Документация проекта 2GC](README.md)
 
 ## Инструкции
 
