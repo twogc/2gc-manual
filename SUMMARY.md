@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Документация проекта 2GC](README.md)
+* [Добро пожаловать в документацию 2GC](README.md)
 
 ## Инструкции
 
@@ -19,6 +19,6 @@
     * [Реквизиты компании](instrukcii/lk/billing/rekvizity-kompanii.md)
   * [Логи входов](instrukcii/lk/logi-vkhodov.md)
   * [Внешние партнеры (Аутсорс)](instrukcii/lk/vneshnie-partnery-autsors.md)
-* [Десктоп приложение 2GC BUSINESS](instrukcii/desktop-prilozhenie-2gc-business/README.md)
+* [Десктоп приложение 2GC CloudBridge](instrukcii/desktop-prilozhenie-2gc-business/README.md)
   * [Десктоп-приложение 2GC для macOS](instrukcii/desktop-prilozhenie-2gc-business/vkhod-v-programmu-2gc-business.md)
 * [Личный кабинет партнера 2GC](instrukcii/lichnyi-kabinet-partnera-2gc.md)
