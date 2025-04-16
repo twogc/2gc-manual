@@ -20,5 +20,5 @@
   * [Логи входов](instrukcii/lk/logi-vkhodov.md)
   * [Внешние партнеры (Аутсорс)](instrukcii/lk/vneshnie-partnery-autsors.md)
 * [Десктоп приложение 2GC BUSINESS](instrukcii/desktop-prilozhenie-2gc-business/README.md)
-  * [Вход в программу 2GC BUSINESS](instrukcii/desktop-prilozhenie-2gc-business/vkhod-v-programmu-2gc-business.md)
+  * [Десктоп-приложение 2GC для macOS](instrukcii/desktop-prilozhenie-2gc-business/desktop-prilozhenie-2gc-dlya-macos.md)
 * [Личный кабинет партнера 2GC](instrukcii/lichnyi-kabinet-partnera-2gc.md)
